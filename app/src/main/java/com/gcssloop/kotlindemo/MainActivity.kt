@@ -10,7 +10,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.Button
-import com.gcssloop.apputils.startActivity
+import com.gcssloop.apputils.openActivity
 import com.gcssloop.kotlindemo.activitys.ClassActivity
 import com.gcssloop.kotlindemo.activitys.DataTypeActivity
 import com.gcssloop.kotlindemo.activitys.ForecastActivity
@@ -54,7 +54,7 @@ class MainActivity : AppCompatActivity() {
             holder?.button?.setOnClickListener {
                 var datas = LinkedHashMap<String, Serializable>()
                 datas.put("title", items[position].text)
-                context.startActivity(items[position].clazz, datas)
+                context.openActivity(items[position].clazz, datas)
             }
         }
 

@@ -3,21 +3,30 @@
 
     <item
         is-multidex="false"
-        jar="/Users/GcsSloop/.android/build-cache/7be903b2b7d1ef7a3abdf2d8cf2e507176d2ca95/output/jars/classes.jar"
+        jar="/Users/GcsSloop/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.1.2-3/552a40eb47669b78f0f194d526cb21b3aa1f8319/kotlin-stdlib-1.1.2-3.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="95519720620b553f63afc789beba9ad582807f7c">
-        <dex dex="/Users/GcsSloop/WorkSpace/Android/KotlinDemo/app/build/intermediates/pre-dexed/debug/classes_84dd6371a519f22e0664e82e7dc74563344bc335.jar" />
+        sha1="552a40eb47669b78f0f194d526cb21b3aa1f8319">
+        <dex dex="/Users/GcsSloop/WorkSpace/GitHub/kotlin-demo/app/build/intermediates/pre-dexed/debug/kotlin-stdlib-1.1.2-3_7eeca6e72881e2900c903af273b86b6e2110f5a0.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/GcsSloop/.android/build-cache/8f46cdddba31ad100391a8281dd01f1bcfc1711c/output/jars/classes.jar"
+        jar="/Users/GcsSloop/.android/build-cache/fc5f2606371f7ab5001cea5e4b3092c4814e9422/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="8ea61ead8816c8d099bbf275989b83b850a115d3">
-        <dex dex="/Users/GcsSloop/WorkSpace/Android/KotlinDemo/app/build/intermediates/pre-dexed/debug/classes_c3ee737ccbf8143cdf060442dfe3a4d38b9e7e0d.jar" />
+        sha1="ba60e1d02c3c712e81d3871fcf56be82a8ba9e27">
+        <dex dex="/Users/GcsSloop/WorkSpace/GitHub/kotlin-demo/app/build/intermediates/pre-dexed/debug/classes_f7d2a309bfd9c1d36b4804c187b4aa67edd5b815.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/GcsSloop/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="/Users/GcsSloop/WorkSpace/GitHub/kotlin-demo/app/build/intermediates/pre-dexed/debug/annotations-13.0_55f86d25d56fabc0fa724467a6d236b5d47e1207.jar" />
     </item>
 
 </items>

@@ -2,7 +2,7 @@
 
 buildscript {
     ext.support_version = '23.1.1'
-    ext.kotlin_version = '1.0.0'
+    ext.kotlin_version = '1.1.2-3'
     ext.anko_version = '0.8.2'
     repositories {
         jcenter()
@@ -19,7 +19,7 @@ buildscript {
 allprojects {
     repositories {
         jcenter()
-        maven { url "http://localhost:8081/repository/gcssloop-central/" }
+        maven { url "http://library.gcssloop.com:8081/repository/gcs-repository/" }
     }
 }
 
